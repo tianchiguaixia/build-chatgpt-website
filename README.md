@@ -2,7 +2,7 @@
 
 
 
-##步骤1：域名购买
+## 步骤1：域名购买
 推荐阿里云的：https://wanwang.aliyun.com/domain/searchresult
 注意点： 1.买完以后记得解析你服务器公网ip    
        2.开放你的安全组端口：80,443等
